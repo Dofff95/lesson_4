@@ -1,0 +1,52 @@
+@import url("reset.css");
+
+* {
+color: brown;
+}
+h1, h3{
+    color: rgb(116, 2, 148);
+}
+a{
+    color: blueviolet;
+}
+
+.item{
+    color: rgb(19, 19, 37);
+}
+#description{
+    color: black;
+}
+li.red_itm{
+    color: red;
+}
+.about > p{
+    color: blue;
+}
+.section.acsess{color: gray;
+
+}
+.change_color,
+.conteiner{
+    color: rgb(255, 0, 115);
+}
+.use p{
+    color: darkblue
+}
+.armament *{
+    color: rebeccapurple;
+}
+.section .color_random{
+    color: chartreuse;
+}
+.textarm ~ p{
+color: crimson;
+}
+.textarm + p{
+color: rgb(75, 72, 73);
+}
+[class*="__section"] {
+    color: aqua;
+}
+.item.itome{
+    color: blueviolet;
+}
