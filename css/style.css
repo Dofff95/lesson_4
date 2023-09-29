@@ -25,7 +25,7 @@ li.red_itm{
 .section.acsess{color: gray;
 
 }
-.change_color,
+.change-color,
 .conteiner{
     color: rgb(255, 0, 115);
 }
@@ -44,7 +44,7 @@ color: crimson;
 .textarm + p{
 color: rgb(75, 72, 73);
 }
-[class*="__section"] {
+[class*="-section"] {
     color: aqua;
 }
 .item.itome{
